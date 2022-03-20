@@ -6,6 +6,7 @@
 ## Sobre mim:
 
 Formado como engenheiro de Dados, 👨‍🎓👨‍💻
+
 Dedicado e esforçado a sempre aprender, apaixonado por marketing, tecnologia e investimentos e obcecado por ter o seu própio negócio. ❤
 
 ## Minhas Especialidades:

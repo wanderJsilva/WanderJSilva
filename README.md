@@ -44,4 +44,3 @@ Fique a vontade para analisar alguns dos meus projetos e quiçá fazer algumas a
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=WanderJSilva&show_icons=true&title_color=FFD700&icon_color=ADFF2F&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/WanderJSilva)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderJSilva&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/WanderJSilva)

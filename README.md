@@ -1,22 +1,20 @@
-# Hello my name is Wander 👋
+# Olá meu nome é Wander 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WanderJSilva)](https://github.com/WanderJSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wanderjsilva/)](https://www.linkedin.com/in/wanderjsilva/)
 
-## About me:
+## Sobre mim:
 
-Fresh graduate in Data Engineering and Analytics 👨‍🎓👨‍💻
+Formado como engenheiro de Dados, 👨‍🎓👨‍💻
+Dedicado e esforçado a sempre aprender, apaixonado por marketing, tecnologia e investimentos e obcecado por ter o seu própio negócio. ❤
 
-Very hardworking and dedicated to ensure excellence in knowledge, passionate about marketing and technology. ❤
+## Minhas Especialidades:
 
-## My specialties:
-
-### Languages: 
-
+### Linguagens
 <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow"/>
 
 
-### Database: 
+### Banco de dados: 
 
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
@@ -35,11 +33,11 @@ Very hardworking and dedicated to ensure excellence in knowledge, passionate abo
 
 <img src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-### Others:
+### Outros:
 
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-## What I don't know, give me a few days 😁
+## O que eu não sei eu aprendo, só me de alguns dias 😁
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=WanderJSilva&show_icons=true&title_color=FFD700&icon_color=ADFF2F&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/WanderJSilva)
 

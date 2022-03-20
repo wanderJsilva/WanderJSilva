@@ -30,7 +30,7 @@ Very hardworking and dedicated to ensure excellence in knowledge, passionate abo
 
 ### Frameworks:
 
-<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src ="https://camo.githubusercontent.com/480c22f865b5f8adfb9e2141be715960ec74338130cdec81b024563171a0ac36/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d5079537061726b263f7374796c653d626164676526636f6c6f723d6f72616e6765266c6f676f3d6170616368652d737061726b"/>
 
 ### IDE:
 
